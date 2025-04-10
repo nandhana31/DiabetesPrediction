@@ -1,0 +1,4 @@
+ENVIRONMENTAL SETUP 
+
+1. Python Version - 3.11.9
+2. SciKit Learn Version - 1.5.2
